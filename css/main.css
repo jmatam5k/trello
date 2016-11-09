@@ -1,0 +1,56 @@
+body{
+	background-color: #0079BF;
+	color: #4d4d4d;
+	font: 14px "Helvetica Neue",Arial,Helvetica,sans-serif;
+	line-height: 18px;
+}
+header{
+	background-color: #0067A3;
+	height: 40px;
+	background-image: url(https://d78fikflryjgj.cloudfront.net/images/50b4ebc64391dc394a38e73aed57f0e2/header-logo.png);
+	background-position: top center;
+	background-repeat: no-repeat;
+}#boton{
+	margin-top: 2%;
+	background-color: #5BAF46;
+	font-family: 'HelveticaNeue-LightExt.otf';
+	box-shadow: 0 1px 0 #3F6F21;
+	color: #fff;
+	padding: 4px 1pc;
+
+}
+#mform{
+	width: 212px;
+	height: auto;
+	margin: 15px -1px;
+	padding: 16px;
+	background-color: #E2E4E6;
+	border-radius: 5px;
+}
+.add{
+    color: #FFFFFF;
+    font-weight: bold;
+    display: block;
+    padding: 22px 10px;
+}
+.tarjeta{
+	overflow: hidden;
+	word-wrap: break-word;
+	resize: none;
+	height: 54px;
+}
+.lista{
+    background: #E2E4E6;
+    border-radius: 3px;
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    max-height: 100%;
+    position: relative;
+    white-space: normal;
+}
